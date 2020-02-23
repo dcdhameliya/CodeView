@@ -7,24 +7,24 @@ example:
 <table>
   <tr>
     <td>
-    <img src="http://img.blog.csdn.net/20160621185326512" width="216"  height="382"/>
+    <img src="https://github.com/dcdhameliya/CodeView/blob/master/SS/1.jpg" width="216"  height="382"/>
     </td>
     <td>
-    <img src="http://img.blog.csdn.net/20160621185350184" width="216"  height="382"/>
+    <img src="https://github.com/dcdhameliya/CodeView/blob/master/SS/2.jpg" width="216"  height="382"/>
     </td>
     <td>
-    <img src="http://img.blog.csdn.net/20160621185403236" width="216"  height="382"/>
+    <img src="https://github.com/dcdhameliya/CodeView/blob/master/SS/3.jpg" width="216"  height="382"/>
     </td>
   </tr>
    <tr>
     <td>
-    <img src="http://img.blog.csdn.net/20160621185418189" width="216"  height="382"/>
+    <img src="https://github.com/dcdhameliya/CodeView/blob/master/SS/4.jpg" width="216"  height="382"/>
     </td>
     <td>
-    <img src="http://img.blog.csdn.net/20160621185434418" width="216"  height="382"/>
+    <img src="https://github.com/dcdhameliya/CodeView/blob/master/SS/5.jpg" width="216"  height="382"/>
     </td>
     <td>
-    <img src="http://img.blog.csdn.net/20160621185434418" width="216"  height="382"/>
+    <img src="https://github.com/dcdhameliya/CodeView/blob/master/SS/6.jpg" width="216"  height="382"/>
     </td>
 
   </tr>
@@ -49,7 +49,7 @@ allprojects {
 Now add the dependency to your app ```build.gradle```:
 ```groovy
 dependencies {
-    implementation 'com.github.dcdhameliya:CodeView:0.0.1-Beta'
+    implementation 'com.github.dcdhameliya:CodeView:0.0.2-Beta'
 }
 ```
 
