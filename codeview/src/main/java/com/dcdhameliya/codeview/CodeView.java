@@ -8,9 +8,9 @@ import android.webkit.WebViewClient;
 
 public class CodeView extends WebView {
     private String code = "CODE";
-    private String theme = "mocha";
-    private String language = "c";
-    private Boolean lineNo = false;
+    private String theme = THEME_ENLIGHTER;
+    private String language = CODE_GENERIC_HIGHLIGHTING;
+    private Boolean lineNo = LINE_DISPLAY_NONE;
     private String[] largeFont = {"15px", "10px", "21px", "18px"};
     private String[] smallFont = {"10px", "0px", "14px", "12px"};
     private String[] mediumFont = {"12px", "5px", "16.8px", "14.4px"};
@@ -113,7 +113,7 @@ public class CodeView extends WebView {
         this.code = code;
     }
 
-    public void setFontStyle(int size) {
+    public void setFont(int size) {
 
         switch (size) {
             case -1:

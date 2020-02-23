@@ -7,8 +7,8 @@ android {
         applicationId "com.dcdhameliya.code_view"
         minSdkVersion 19
         targetSdkVersion 29
-        versionCode 1
-        versionName "0.0.1~beta"
+        versionCode 2
+        versionName "0.0.2-beta"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
