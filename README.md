@@ -172,13 +172,11 @@ codeView.apply();
 ```
 
 
-you can clone this project to local,app have som useage demo,you can browse all theme and concreate useage
+you can download demo project from this [link](https://app.box.com/s/1stsblh0vx9dxxc0eur59ffrxzfzpor3)
 
+If you want to do some technical contribution then mail me on my mail address
 
-if you think is interesting ,can give a star
-
-ofcourse ,it is my first open source library,it must have many trouble,and bug,you can give me some addvice,
-and then,i can learn more.
+Of course, it is my first open-source library, it must have much trouble, and bug, you can give me some advice, and then, I can learn more and I will update the library with your advice and proper credits.
 
 mail ：dcdhameliya@gmail.com
 
