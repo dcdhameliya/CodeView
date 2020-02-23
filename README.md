@@ -1,6 +1,6 @@
 # CodeView (Android)
 
-<b>CodeView</b> is a android widget to help show code and hightlight it in your Android Application.
+<b>CodeView</b> is an android widget to help show code and hightlight it in your Android Application.
 
 example:
 
@@ -32,7 +32,7 @@ example:
 
 
 
-It can not only show code snippet，but also replaced all the specified code in the HTML with some CSS & JAVASCRIPT files which is used to highlight code.
+It cannot only show code snippet，but also replaces all the specified code in the HTML with some CSS & JAVASCRIPT files which is used to highlight code.
 
 
 ## Download
